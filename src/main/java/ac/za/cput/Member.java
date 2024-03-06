@@ -143,7 +143,7 @@ public class Member {
     @Override
     public int hashCode() {
         return Objects.hash(memberId, name, dateOfBirth, phoneNumber, adress, dateJoined);
-    }
+    };
 
 
 
