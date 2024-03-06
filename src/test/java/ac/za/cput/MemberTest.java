@@ -34,8 +34,8 @@ public class MemberTest {
                 .build();
 
         assertEquals(member1, member2);
-    }
+    };
 
 
 
-}
+};
